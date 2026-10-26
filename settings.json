@@ -8,7 +8,7 @@
   "server": {
     "ip": "ULTRA7SHADOW1.aternos.me",
     "port": 24480,
-    "version": "26.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
