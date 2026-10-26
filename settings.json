@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "7away XD",
+    "username": "7awayXD",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "ULTRA7SHADOW1.aternos.me",
     "port": 24480,
-    "version": "26.3"
+    "version": "26.1"
   },
   "position": {
     "enabled": true,
